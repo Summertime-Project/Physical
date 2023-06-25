@@ -1,0 +1,18 @@
+﻿Badanie Analiza statyczna:1 rozpoczęte: 25.06.2023, 11:52:33
+Liczba konfiguracji: 1
+Siatka domyślna: Elementy 717, Węzły 1487
+Czas rozwiązania 0.4s
+Wskaźnik zbieżności: 37%
+Osiągnięto całkowitą liczbę wygładzeń h 
+Badanie        Worst Jacobian ratio :  1.73  on element 505 zakończone: 25.06.2023, 11:52:37
+Czas całkowity 0:00:04
+
+Badanie Analiza statyczna:1 rozpoczęte: 25.06.2023, 11:53:34
+Liczba konfiguracji: 1
+Siatka domyślna: Elementy 717, Węzły 1487
+Czas rozwiązania 0.9s
+Wskaźnik zbieżności: 28%
+Osiągnięto całkowitą liczbę wygładzeń h 
+Badanie Analiza statyczna:1 zakończone: 25.06.2023, 11:53:35
+Czas całkowity 0:00:01
+
